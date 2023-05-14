@@ -1,6 +1,6 @@
 - params:
     git:
-      repoName: npmexample
+      repoName: npmproject
       branches:
         - main
 - params:
