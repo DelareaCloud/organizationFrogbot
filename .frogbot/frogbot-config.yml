@@ -1,0 +1,10 @@
+- params:
+    git:
+      repoName: npmexample
+      branches:
+        - main
+- params:
+    git:
+      repoName: goproject
+      branches:
+        - main
